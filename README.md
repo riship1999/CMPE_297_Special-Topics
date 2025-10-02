@@ -1,1 +1,1 @@
-### This repo contains CMPE 297 assignment
+### This repo contains CMPE 297 assignments
