@@ -14,7 +14,7 @@ It includes implementations of the official ADK codelabs (**Part A**) and one cu
 - Output is stored as a PDF file: `House_renovation_proposal_document_for_user.pdf`.  
 - Implements the ADK pipeline for generating structured proposal documents.   
 
-🎥 Video Walkthrough: [YouTube Link](#)  
+🎥 Video Walkthrough: [YouTube Link](https://youtu.be/hGy00UiNG98)  
 
 ---
 
@@ -26,7 +26,7 @@ It includes implementations of the official ADK codelabs (**Part A**) and one cu
 <img width="1366" height="768" alt="ADK_currency" src="https://github.com/user-attachments/assets/07a969af-ecb9-4d63-92f5-4d64539042b8" />
 <img width="1366" height="768" alt="ADK_Search_agent" src="https://github.com/user-attachments/assets/1afefe2c-9399-4f49-89f0-45869f4e8782" />
 
-🎥 Video Walkthrough: [YouTube Link](#)  
+🎥 Video Walkthrough: [YouTube Link](https://youtu.be/bDNht5L5VPU)  
 
 ---
 
@@ -41,7 +41,7 @@ It includes implementations of the official ADK codelabs (**Part A**) and one cu
 <img width="1366" height="768" alt="MCP_toolbox_ui" src="https://github.com/user-attachments/assets/92ae6ad8-1265-47f2-81a8-07fd61d176f9" />
 <img width="1366" height="768" alt="Travel_Hotel_DB" src="https://github.com/user-attachments/assets/c2d127e8-9453-4d83-b66a-28668072ef10" />
 
-🎥 Video Walkthrough: [YouTube Link](#)  
+🎥 Video Walkthrough: [YouTube Link](https://youtu.be/Jac1_Ml2d_Y)  
 
 ---
 
@@ -58,7 +58,7 @@ It includes implementations of the official ADK codelabs (**Part A**) and one cu
 <img width="1366" height="768" alt="ADK_Educational_path" src="https://github.com/user-attachments/assets/0811b2c9-9ee4-4300-bd2c-e4d918a72fc9" />
 
 
-🎥 Video Walkthrough: [YouTube Link](#)  
+🎥 Video Walkthrough: [YouTube Link](https://youtu.be/92nOtoJ6JlA)  
 
 ---
 
@@ -96,12 +96,12 @@ It includes implementations of the official ADK codelabs (**Part A**) and one cu
 ## ▶️ Demo Videos
 
 - **Part A**  
-  1. Renovation Agent – [YouTube Link](#)  
-  2. Personal Assistant Agent – [YouTube Link](#)  
-  3. Hotel Agent App – [YouTube Link](#)  
+  1. Renovation Agent – [YouTube Link](https://youtu.be/hGy00UiNG98)  
+  2. Personal Assistant Agent – [YouTube Link](https://youtu.be/bDNht5L5VPU)  
+  3. Hotel Agent App – [YouTube Link](https://youtu.be/Jac1_Ml2d_Y)  
 
 - **Part B**  
-  - Educational Path Advisor Agent – [YouTube Link](#)  
+  - Educational Path Advisor Agent – [YouTube Link](https://youtu.be/92nOtoJ6JlA)  
 
 ---
 
