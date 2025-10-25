@@ -1,4 +1,4 @@
-# CMPE 297 - Special Topics Assignment
+# CMPE 297 - Special Topics Assignment 2 MCP and A2A codelabs
 
 ## MCP and A2A Protocols Practice
 
@@ -25,8 +25,10 @@ a structured GitHub directory.
     -   Demonstrate A2A protocol communication.
 -   **Artifacts:**
     -   Source code and configuration files.
-    -   Screenshot of successful deployment.
-    -   Video walkthrough link.
+    -   Screenshot <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e4e74539-c432-4dd7-ac05-7f32ba8a9656" />
+
+      
+    -   Video walkthrough link - YT_link(https://youtu.be/IJBrVpjV6bs)
 
 ------------------------------------------------------------------------
 
@@ -58,28 +60,6 @@ a structured GitHub directory.
 
 ------------------------------------------------------------------------
 
-### 📁 Directory Structure Example
-
-    CMPE297_Assignment_MCP_A2A/
-    │
-    ├── Codelab_1_MultiAgent_ADK/
-    │   ├── src/
-    │   ├── screenshots/
-    │   └── video_link.txt
-    │
-    ├── Codelab_2_ADK_MCP_A2A/
-    │   ├── src/
-    │   ├── screenshots/
-    │   └── video_link.txt
-    │
-    ├── Codelab_3_A2A_Action_Engine/
-    │   ├── src/
-    │   ├── screenshots/
-    │   └── video_link.txt
-    │
-    └── README.md
-
-------------------------------------------------------------------------
 
 ### 📽️ Submission Requirements
 
@@ -93,5 +73,4 @@ a structured GitHub directory.
 
 **Name:** Rishi\
 **Course:** CMPE 297 - Special Topics\
-**Instructor:** \[Professor's Name\]\
-**Semester:** Fall 2025
+
