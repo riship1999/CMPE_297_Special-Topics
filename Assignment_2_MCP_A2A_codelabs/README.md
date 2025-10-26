@@ -41,7 +41,8 @@ a structured GitHub directory.
     -   Demonstrate message exchange flow.
 -   **Artifacts:**
     -   Source code and environment setup files.
-    -   Screenshot of successful message exchange.
+    -   Screenshot of successful message exchange<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bd72b482-5314-45e8-8248-bff8bb78515d" />
+
     -   Video walkthrough link.
 
 ------------------------------------------------------------------------
