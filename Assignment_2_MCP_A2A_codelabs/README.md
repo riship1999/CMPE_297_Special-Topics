@@ -1,6 +1,6 @@
 # CMPE 297 - Special Topics Assignment 2 MCP and A2A codelabs
 
-## MCP and A2A Protocols Practice
+## ADK, MCP and A2A Protocols Practice
 
 ### 🎯 Objective
 
