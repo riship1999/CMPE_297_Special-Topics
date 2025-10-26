@@ -28,7 +28,7 @@ a structured GitHub directory.
     -   Screenshot <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e4e74539-c432-4dd7-ac05-7f32ba8a9656" />
 
       
-    -   Video walkthrough link - YT_link(https://youtu.be/IJBrVpjV6bs)
+    -   Video walkthrough link - https://youtu.be/IJBrVpjV6bs
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ a structured GitHub directory.
     -   Source code and environment setup files.
     -   Screenshot of successful message exchange<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bd72b482-5314-45e8-8248-bff8bb78515d" />
 
-    -   Video walkthrough link.
+    -   Video walkthrough link - https://youtu.be/fBJz_y2aPiQ
 
 ------------------------------------------------------------------------
 
