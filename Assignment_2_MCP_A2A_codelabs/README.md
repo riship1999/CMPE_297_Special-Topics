@@ -56,7 +56,9 @@ a structured GitHub directory.
     -   Demonstrate action execution flow.
 -   **Artifacts:**
     -   Source code and execution logs.
-    -   Screenshot of working setup.
+    -   Screenshot<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/87425dd0-0ff5-48a1-96e1-f869547ba71d" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f9ac18d4-041b-4f2b-ae4c-94059dc726bf" />
+
     -   Video walkthrough link.
 
 ------------------------------------------------------------------------
