@@ -21,21 +21,25 @@ This project demonstrates a **full-stack multimodal AI agent** integrating front
 ## 🎥 Video Walkthrough
 
 **Full End-to-End Flow and Code Walkthrough**  
-[Watch Here](#)
-
-*(Replace the `#` with your actual YouTube video URL)*
+[Watch Here](https://youtu.be/hd6322ACMkc)
 
 ---
 
 ## 🖼️ Screenshots
 
 Below are example screenshots from different parts of the multimodal agent:
+<img width="1366" height="768" alt="adk_interface_receipt" src="https://github.com/user-attachments/assets/3502bd65-3176-4286-bacb-b2a59a50935b" />
 
-| Component | Screenshot |
-|------------|-------------|
-| Frontend | ![Frontend Interface](images/frontend.png) |
-| Backend | ![Backend Pipeline](images/backend.png) |
-| Database | ![Database Integration](images/database.png) |
-| RAG Flow | ![RAG Process](images/rag.png) |
-| End-to-End Demo | ![Full Stack Demo](images/e2e.png) |
+<img width="1366" height="768" alt="adk_interface_receipt_1" src="https://github.com/user-attachments/assets/8597fc19-a860-4a04-bc0c-d0cc6f3337d0" />
+
+<img width="1366" height="768" alt="Receipt_1_gradio_ss" src="https://github.com/user-attachments/assets/c1583f7e-2278-4cdc-a172-22b5f380a524" />
+
+<img width="1366" height="768" alt="Receipt_2_gradio_ss" src="https://github.com/user-attachments/assets/a740cede-4c64-4be9-98de-0514afa07ac9" />
+
+<img width="1366" height="768" alt="Receipt_3_gradio" src="https://github.com/user-attachments/assets/726e8a92-b97e-47ae-a93a-b905e0cd577c" />
+
+
+
+
+
 
