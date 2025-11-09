@@ -38,26 +38,28 @@ This repository contains five end-to-end **Google ADK (Agent Development Kit)** 
 
 ## 🎥 Video Walkthroughs
 
-| Codelab | YouTube Link |
-|----------|---------------|
-| A | [Watch Here](#) |
-| B | [Watch Here](#) |
-| C | [Watch Here](#) |
-| D | [Watch Here](#) |
+[Watch Here 1](https://youtu.be/G8lLgpo_NBs)
 
-*(Replace the `#` with your actual YouTube video URLs)*
+[Watch Here 2](https://youtu.be/AB7BM4HoSE0) 
+
+[Watch Here 3](https://youtu.be/EAhEkTmPAOY) 
+
+[Watch Here 4](https://youtu.be/Eg7HWmFB8LM) 
+ 
 
 ---
 
 ## 🖼️ Screenshots
 
-Below are example screenshots from each codelab:
+Below are sample screenshots
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e8bf2af0-6ccd-4d2b-9eb7-db3e047d592a" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/39885c8e-e9c8-4910-8faf-c97e42bc0b03" />
 
-| Codelab | Screenshot |
-|----------|-------------|
-| A | ![Deep Research Agent](images/a.png) |
-| B | ![Gemini CLI Tool Agent](images/b.png) |
-| C | ![Bug Assistance Agent](images/c.png) |
-| D | ![Code Review Assistant](images/d.png) |
-| E | ![E-Commerce Agent](images/e.png) |
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/38ee139d-e39c-48bb-8e4e-f8e7b9439fbb" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/70f71894-84ef-42a5-8482-77aabb5fbb03" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/aa189bb9-9ee2-4f06-a902-968c29f2780d" />
+
+
+
 
