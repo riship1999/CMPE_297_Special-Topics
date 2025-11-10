@@ -19,7 +19,7 @@ You will explain in the video:
 - Input formats and datasets used  
 - Application of chat model templates  
 
-**Colab Link:** [Open in Colab](#)  
+**Colab Link:** [Open in Colab](https://colab.research.google.com/drive/1Gu4uRRwpeWpaeF6PQplGgcCTBjSySy77?usp=sharing)  
 **References:**  
 - [Fine-tuning LLMs Guide](https://docs.unsloth.ai/get-started/fine-tuning-llms-guide)  
 - [Unsloth + Ollama Lora Tutorial](https://sarinsuriyakoon.medium.com/unsloth-lora-with-ollama-lightweight-solution-to-full-cycle-llm-development-edadb6d9e0f0)
