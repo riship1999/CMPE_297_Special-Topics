@@ -31,7 +31,7 @@ You will explain in the video:
 Repeat the same fine-tuning task as Colab 1, but with **LoRA (Low-Rank Adaptation)** for parameter-efficient training.  
 Only adapter weights are updated, enabling faster, memory-efficient training while achieving similar performance.  
 
-**Colab Link:** [Open in Colab](#)  
+**Colab Link:** [Open in Colab](https://colab.research.google.com/drive/1UglSIij88szHDBc7t9gtRjYgL7ltTs3t?usp=sharing)  
 **Reference:**  
 - [Fine-tuning LLMs Guide](https://docs.unsloth.ai/get-started/fine-tuning-llms-guide)
 
@@ -42,7 +42,7 @@ Only adapter weights are updated, enabling faster, memory-efficient training whi
 Use a dataset containing **input**, **preferred output**, and **rejected output** pairs to perform **Reinforcement Learning (RL)** fine-tuning.  
 Demonstrates how Unsloth supports preference-based learning for improving model alignment.
 
-**Colab Link:** [Open in Colab](#)  
+**Colab Link:** [Open in Colab](https://colab.research.google.com/drive/1IsB4PiBU5Y_iolIsJEP893TDOZBrvqya?usp=sharing)  
 **Reference:**  
 - [Unsloth Reinforcement Learning Guide](https://docs.unsloth.ai/get-started/reinforcement-learning-rl-guide)
 
@@ -56,7 +56,7 @@ You’ll experiment with reasoning models as detailed in:
 - [Train Your Own Reasoning Model with GRPO](https://docs.unsloth.ai/get-started/reinforcement-learning-rl-guide/tutorial-train-your-own-reasoning-model-with-grpo)  
 - [Unsloth R1 Reasoning Blog](https://unsloth.ai/blog/r1-reasoning)
 
-**Colab Link:** [Open in Colab](#)
+**Colab Link:** [Open in Colab](https://colab.research.google.com/drive/1IsB4PiBU5Y_iolIsJEP893TDOZBrvqya?usp=sharing)
 
 ---
 
@@ -65,7 +65,7 @@ You’ll experiment with reasoning models as detailed in:
 Perform **continued pretraining** to teach an LLM a **new language** or domain using Unsloth’s efficient pretraining framework.  
 Show how model knowledge expands through incremental training.
 
-**Colab Link:** [Open in Colab](#)  
+**Colab Link:** [Open in Colab](https://colab.research.google.com/drive/1IsB4PiBU5Y_iolIsJEP893TDOZBrvqya?usp=sharing)  
 **Reference:**  
 - [Continued Pretraining Guide](https://docs.unsloth.ai/basics/continued-pretraining)
 
@@ -73,6 +73,7 @@ Show how model knowledge expands through incremental training.
 
 ## 🎥 Video Walkthrough  
 **End-to-End Explanation and Code Walkthrough**  
-[Watch Here](#)
+[Watch Here](https://youtu.be/u7RBlY8DrlQ)
 
+[Watch Here](https://youtu.be/UZtrQa9Qh9Y)
 
