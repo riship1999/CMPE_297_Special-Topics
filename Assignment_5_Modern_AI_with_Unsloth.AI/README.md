@@ -1,5 +1,7 @@
 # Modern AI with Unsloth.ai
-Note - If the ipynb files do not open in github, use the colab links from readme.
+
+# Note - If the ipynb files do not open in github, use the colab links from readme.
+
 This assignment demonstrates **modern fine-tuning, reinforcement learning, and continued pretraining techniques** using [Unsloth.ai](https://unsloth.ai).  
 It includes **five Colab notebooks**, each focusing on a different method for training and optimizing LLMs efficiently.
 
