@@ -65,7 +65,7 @@ You’ll experiment with reasoning models as detailed in:
 Perform **continued pretraining** to teach an LLM a **new language** or domain using Unsloth’s efficient pretraining framework.  
 Show how model knowledge expands through incremental training.
 
-**Colab Link:** [Open in Colab](https://colab.research.google.com/drive/1IsB4PiBU5Y_iolIsJEP893TDOZBrvqya?usp=sharing)  
+**Colab Link:** [Open in Colab](https://colab.research.google.com/drive/1Xbv0MG4OYbD0HqJ2dHK0LNy7-zUaBPZS?usp=sharing)  
 **Reference:**  
 - [Continued Pretraining Guide](https://docs.unsloth.ai/basics/continued-pretraining)
 
@@ -73,9 +73,13 @@ Show how model knowledge expands through incremental training.
 
 ## 🎥 Video Walkthrough  
 **End-to-End Explanation and Code Walkthrough**  
-[Watch Here](https://youtu.be/u7RBlY8DrlQ)
+[Watch Here - Colab 1](https://youtu.be/u7RBlY8DrlQ)
 
-[Watch Here](https://youtu.be/UZtrQa9Qh9Y)
+[Watch Here - Colab 2](https://youtu.be/UZtrQa9Qh9Y)
 
-[Watch Here](https://youtu.be/ljQHaPl3Pqk)
+[Watch Here - Colab 3](https://youtu.be/ljQHaPl3Pqk)
+
+[Watch Here - Colab 4](https://youtu.be/2AoFGv_uGHg)
+
+[Watch Here - Colab 5](https://youtu.be/wDImkF9tBmI)
 
