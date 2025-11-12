@@ -56,7 +56,7 @@ You’ll experiment with reasoning models as detailed in:
 - [Train Your Own Reasoning Model with GRPO](https://docs.unsloth.ai/get-started/reinforcement-learning-rl-guide/tutorial-train-your-own-reasoning-model-with-grpo)  
 - [Unsloth R1 Reasoning Blog](https://unsloth.ai/blog/r1-reasoning)
 
-**Colab Link:** [Open in Colab](https://colab.research.google.com/drive/1IsB4PiBU5Y_iolIsJEP893TDOZBrvqya?usp=sharing)
+**Colab Link:** [Open in Colab](https://colab.research.google.com/drive/1_H9prFujz7xMX3NzECyJznNb5-qPWhDa?usp=sharing)
 
 ---
 
