@@ -83,9 +83,6 @@ The slide deck includes:
 └── Research_paper.pdf             # arxiv paper
 ```
 
-> Note: The actual MA-RAG implementation and experimental code are provided by the original authors in their own repository.  
-
----
 
 ## 🙌 Acknowledgements
 
