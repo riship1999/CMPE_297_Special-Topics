@@ -80,7 +80,7 @@ The slide deck includes:
 ├── Short-Story-Presentation.pdf   # Slide deck used in the video
 ├── Medium_article.pdf             # Export of the Medium article (optional)
 ├── README.md                      # This file
-└── (any additional assets, images, or notes)
+└── Research_paper.pdf             # arxiv paper
 ```
 
 > Note: The actual MA-RAG implementation and experimental code are provided by the original authors in their own repository.  
